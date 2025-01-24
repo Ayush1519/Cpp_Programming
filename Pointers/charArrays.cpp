@@ -14,5 +14,8 @@ int main(){
     cout<<c<<endl;
     cout<<*(c+1)<<endl;
     
+    char temp='z';
+    char *ch1 = &temp;
+    cout<<ch1<<endl;
 
 }
