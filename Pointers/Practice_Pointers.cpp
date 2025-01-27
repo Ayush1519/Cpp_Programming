@@ -138,6 +138,7 @@ using namespace std;
 
     //21.
 
+    //increment function
     void increment (int **p){
         ++(**p);
     }
