@@ -7,7 +7,7 @@ int main(){
     cout<< "Character Array:"<<ch<<endl;//all content of ch array
 
     int *ptr =  &arr[0];
-    cout<<ptr<<endl;
+    cout<<ptr<<endl;//pointer print 
     cout<<*ptr<<endl;
 
     char *c= &ch[0];
