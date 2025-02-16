@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int num  = 5 ;
+    int num  = 5 ;//variable declared
 
     cout << num << endl;
 
