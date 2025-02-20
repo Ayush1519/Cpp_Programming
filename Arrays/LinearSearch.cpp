@@ -11,7 +11,7 @@ int linearSearch(int arr[], int size, int target) {
 }
 
 int main() {
-    int arr[] = {10, 23, 45, 70, 11, 15};
+    int arr[] = {10, 23, 45, 70, 11, 15};//array declared
     int size = sizeof(arr) / sizeof(arr[0]);
     int target = 70;
 
