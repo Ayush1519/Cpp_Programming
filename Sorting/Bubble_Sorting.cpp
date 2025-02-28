@@ -7,8 +7,8 @@ void SortedArray(int* arr,int size){
     }
 }
 void BubbleSort(int* arr, int size) {
-    for (int i = 0; i < size - 1; i++) {
-        for (int j = 0; j < size - i - 1; j++) {
+    for (int i = 0; i < size - 1; i++) {//loop
+        for (int j = 0; j < size - i - 1; j++) {//loop 
             if (arr[j] > arr[j + 1]) {
                 //Swapping of adjacent elemnts
                 int temp = arr[j];
