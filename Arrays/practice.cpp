@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    //Declaration of an array
     int arr[]={1,1,6,7,8,9};
     int n = 6; // Size of the array
     for(int i=0;i<n-1;i++){
