@@ -7,7 +7,7 @@ int KadanesAlgorithm(int nums[],int n){
     int maxSubArrSum = nums[0];
     int currSubArrSum  = nums[0];
 
-    for(int i=1;i<n ;i++ ){
+    for(int i=1;i<n ;i++ ){//loops
 
         currSubArrSum = max(nums[i], currSubArrSum + nums[i]);
         maxSubArrSum = max(maxSubArrSum , currSubArrSum);
