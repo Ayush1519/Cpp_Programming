@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int factorial(int num) {
+int factorial(int num) {//function to print factorial
     if(num == 0)
         return 1;
     else {
