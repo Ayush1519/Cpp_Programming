@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int getSum(int *arr, int n) {
+int getSum(int *arr, int n) {//function
 
     int sum = 0;
     for(int i=0; i<n; i++) {
