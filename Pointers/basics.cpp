@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std;//Library Function
 int main(){
     int num  = 5 ;//variable declared
 
