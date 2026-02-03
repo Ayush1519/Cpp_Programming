@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//class declared
     public:
         int fib(int n) {
             if(n==0 || n==1){
