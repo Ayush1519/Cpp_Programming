@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//library functions
 using namespace std;
 int main(){
     //pointer to int is created, and pointing to some garbage address
