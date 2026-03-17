@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream>//library functions
 using namespace std;
 
 int linearSearch(int arr[], int size, int target) {
