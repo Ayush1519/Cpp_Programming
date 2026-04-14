@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream>//libraries function
 using namespace std;
 
 int getSum(int *arr, int n) {//function
